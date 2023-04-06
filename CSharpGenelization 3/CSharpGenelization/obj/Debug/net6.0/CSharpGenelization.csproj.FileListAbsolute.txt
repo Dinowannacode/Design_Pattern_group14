@@ -1,0 +1,5 @@
+C:\Users\soden\source\repos\CSharpGenelization\CSharpGenelization\obj\Debug\net6.0\CSharpGenelization.csproj.AssemblyReference.cache
+C:\Users\soden\source\repos\CSharpGenelization\CSharpGenelization\obj\Debug\net6.0\CSharpGenelization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soden\source\repos\CSharpGenelization\CSharpGenelization\obj\Debug\net6.0\CSharpGenelization.AssemblyInfoInputs.cache
+C:\Users\soden\source\repos\CSharpGenelization\CSharpGenelization\obj\Debug\net6.0\CSharpGenelization.AssemblyInfo.cs
+C:\Users\soden\source\repos\CSharpGenelization\CSharpGenelization\obj\Debug\net6.0\CSharpGenelization.csproj.CoreCompileInputs.cache
